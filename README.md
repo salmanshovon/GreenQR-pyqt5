@@ -15,31 +15,26 @@ A **desktop application** for generating customizable QR codes from Excel data o
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/salmanshovon/GreenQR-pyqt5.git](https://github.com/salmanshovon/GreenQR-pyqt5.git)
-````
-
+   git clone https://github.com/salmanshovon/GreenQR-pyqt5.git
+   
 2.  Install dependencies:
-
     ```bash
     pip install -r requirements.txt
-    ```
 
 3.  Run the app:
-
     ```bash
     python src/main.py
-    ```
 
 ## 🖼️ Screenshots
 
-![Excel Import](about:sanitized)
+![Excel Import](./assets/screenshot_excel.JPG)
 **Excel Import**
 
-![QR Customization](about:sanitized)
+![QR Customization](./assets/screenshot_advanced.JPG)
 **QR Customization**
 
-![Logo Overlay](about:sanitized)
-**Logo Overlay**
+![QR Color](./assets/screenshot_qrcolor.JPG)
+**QR Color**
 
 ## 🛠️ Tech Stack
 
