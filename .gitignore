@@ -1,0 +1,30 @@
+# PyQt5 Garbage
+__pycache__/
+*.pyc
+*.pyo
+
+# Standard Python Garbage
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+*.DS_Store  # macOS Desktop Services Store
+
+# PyQt5 Specific (Potential)
+clip.bin
+*.ui.py  # If you don't want to track generated UI files
+
+# Other common garbage
+.vscode/
+.idea/
+build/
+dist/
+env/
+venv/
+*.egg-info/
+__pypackages__/
+*.orig
+*.rej
+*.patch
+*.diff

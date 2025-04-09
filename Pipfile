@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+cffi = "==1.17.1"
+colorama = "==0.4.6"
+cryptography = "==44.0.2"
+et-xmlfile = "==2.0.0"
+openpyxl = "==3.1.5"
+pillow = "==11.1.0"
+pycparser = "==2.22"
+pyqt5 = "==5.15.11"
+pyqt5-qt5 = "==5.15.2"
+pyqt5-sip = "==12.17.0"
+qrcode = "==8.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
