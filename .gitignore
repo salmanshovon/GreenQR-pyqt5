@@ -9,11 +9,11 @@ __pycache__/
 *.tmp
 *.swp
 *.swo
-*.DS_Store  # macOS Desktop Services Store
+*.DS_Store  # macOS Desktop Services Store
 
 # PyQt5 Specific (Potential)
 clip.bin
-*.ui.py  # If you don't want to track generated UI files
+*.ui.py  # If you don't want to track generated UI files
 
 # Other common garbage
 .vscode/
